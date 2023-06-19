@@ -4,7 +4,7 @@
 #
 Name     : R-posterior
 Version  : 1.4.1
-Release  : 16
+Release  : 17
 URL      : https://cran.r-project.org/src/contrib/posterior_1.4.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/posterior_1.4.1.tar.gz
 Summary  : Tools for Working with Posterior Distributions
